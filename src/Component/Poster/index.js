@@ -15,7 +15,7 @@ class Poster extends Component {
     liatDetail = (item) => {
         const detailFilm = item.imdbID
         axios
-            .get(`http://www.omdbapi.com/?i=${detailFilm}&apikey=176c65e1`)
+            .get(`https://www.omdbapi.com/?i=${detailFilm}&apikey=176c65e1`)
             .then(res => {
                 const data = res.data
                 console.log(data)

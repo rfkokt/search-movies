@@ -17,7 +17,7 @@ class index extends Component {
     }
 
     Film = () => {
-        axios.get(`http://www.omdbapi.com/?s=indonesia&apikey=176c65e1`)
+        axios.get(`https://www.omdbapi.com/?s=indonesia&apikey=176c65e1`)
             .then(res => {
                 console.log(res.data.Search)
                 this.setState({
@@ -27,7 +27,7 @@ class index extends Component {
     }
     cariFilm = () => {
         const nameFilm = this.state.nameFilm
-        axios.get(`http://www.omdbapi.com/?s=${nameFilm}&apikey=176c65e1`)
+        axios.get(`https://www.omdbapi.com/?s=${nameFilm}&apikey=176c65e1`)
             .then(res => {
                 console.log(res.data.Search)
                 this.setState({
