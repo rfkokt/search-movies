@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/search-movies/static/css/main.e66dd926.chunk.css",
+    "main.js": "/search-movies/static/js/main.e0c6a2f8.chunk.js",
+    "main.js.map": "/search-movies/static/js/main.e0c6a2f8.chunk.js.map",
+    "runtime-main.js": "/search-movies/static/js/runtime-main.6d069703.js",
+    "runtime-main.js.map": "/search-movies/static/js/runtime-main.6d069703.js.map",
+    "static/css/2.11829350.chunk.css": "/search-movies/static/css/2.11829350.chunk.css",
+    "static/js/2.10cccdd5.chunk.js": "/search-movies/static/js/2.10cccdd5.chunk.js",
+    "static/js/2.10cccdd5.chunk.js.map": "/search-movies/static/js/2.10cccdd5.chunk.js.map",
+    "index.html": "/search-movies/index.html",
+    "precache-manifest.d11ee6b2f4201e4b57e33cfdabf2452e.js": "/search-movies/precache-manifest.d11ee6b2f4201e4b57e33cfdabf2452e.js",
+    "service-worker.js": "/search-movies/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/search-movies/static/css/2.11829350.chunk.css.map",
+    "static/css/main.e66dd926.chunk.css.map": "/search-movies/static/css/main.e66dd926.chunk.css.map",
+    "static/js/2.10cccdd5.chunk.js.LICENSE.txt": "/search-movies/static/js/2.10cccdd5.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/search-movies/static/media/felix-mooneeram-evlkOfkQ5rE-unsplash.42f99941.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d069703.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.10cccdd5.chunk.js",
+    "static/css/main.e66dd926.chunk.css",
+    "static/js/main.e0c6a2f8.chunk.js"
+  ]
+}
