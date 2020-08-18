@@ -47,7 +47,7 @@ class index extends Component {
                         </p>
                         <Container>
                             <Row className={'justify-content-md-center'} style={{marginTop: '100px'}}>
-                                <Col xs lg={'4'}>
+                                <Col xs={8} lg={'4'}>
                                     <Form.Group>
                                         <Form.Control onChange={(e) => {
                                             this.setState({
@@ -56,7 +56,7 @@ class index extends Component {
                                         }} type="text" placeholder="Search your movies..."/>
                                     </Form.Group>
                                 </Col>
-                                <Col xs lg={'1'}>
+                                <Col xs={4} lg={'1'}>
                                     <Button onClick={this.cariFilm}>Search</Button>
                                 </Col>
                             </Row>
